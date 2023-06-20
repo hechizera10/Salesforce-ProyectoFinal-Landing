@@ -9948,3 +9948,15 @@ blockquote {
     color: rgba(255, 255, 255, 0.5); }
     .copyright a:hover {
       color: #fff; }
+.center{
+  justify-content: center;
+}
+.campaign{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.campaign button a{
+  color: white;
+}
